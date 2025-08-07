@@ -1,0 +1,25 @@
+1,Kahvaltı Tabağı,25.99
+2,Omlet,12.50
+3,Çılbır,15.75
+4,Sucuklu Yumurta,18.99
+5,Fransız Tostu,10.25
+6,Menemen,14.50
+7,Kızarmış Peynir,8.99
+8,Turşu Suyu,5.00
+9,Kahve,7.50
+10,Çay,4.00
+12,Beyaz Peynir,10.99
+13,Közlenmiş Domates,6.50
+16,Salata,12.75
+17,Patates Kızartması,7.50
+18,Hamburger,18.99
+19,Pizza,22.50
+20,Pasta,14.75
+21,Kola,5.50
+22,Limonata,6.00
+23,Meyve Suyu,7.25
+24,Soda,4.50
+25,Ayran,3.50
+15,Baklava,15.55
+14,Supangle,7.25
+11,Bamya,40.0
